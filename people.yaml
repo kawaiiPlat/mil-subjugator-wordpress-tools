@@ -1,0 +1,39 @@
+- email: email
+  major: CSE
+  name: Gator
+  position: Gator
+  imageurl: url
+  degreelevel: BS
+  concentration: Spirit
+  resume: gator
+  teamcontributions: eating
+
+- email: jarrod.sanders@ufl.edu
+  major: cse
+  name: jarrod Sanders
+  position: software-Hardware crossover dev
+  imageurl: http://subjugator.org/wp-content/uploads/2021/06/Jarrod-Sanders-Square.jpg
+  degreelevel: BS
+  concentration: software tool development
+  resume: unavalible
+  teamcontributions: working on website
+
+- email: alex.perez@ufl.edu
+  major: cpe
+  name: alex Perez
+  position: software team lead
+  imageurl: http://subjugator.org/wp-content/uploads/2021/06/Jarrod-Sanders-Square.jpg
+  degreelevel: BS
+  concentration: software team managment
+  resume: unavalible
+  teamcontributions: Leading and directing software team
+
+- email: damir.fayulez@ufl.edu
+  major: ME
+  name: Damir Fayulez
+  position: Senior Mech Team lead
+  imageurl: url
+  degreelevel: BS
+  concentration: CAD direction and Modeling
+  resume: unavalible
+  teamcontributions: Developed CAD Organization System
