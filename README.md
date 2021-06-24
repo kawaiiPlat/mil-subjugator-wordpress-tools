@@ -1,4 +1,7 @@
   # This tool generates the code for the "20xx Team Members" page on [subjugator.org](subjugator.org)
+To use the tool
+* run run.sh
+* copy and paste from the terminal session or out.html
 
 **This is an example single entry in the yaml file that describes the lab members**
 
