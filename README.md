@@ -1,4 +1,6 @@
-#This is an example single entry in the yaml file that describes the lab members
+  # This tool generates the code for the "20xx Team Members" page on [subjugator.org](subjugator.org)
+
+**This is an example single entry in the yaml file that describes the lab members**
 
 ```yaml
 - email: jarrod.sanders@ufl.edu
@@ -13,7 +15,7 @@
 ```
 
 
-#this is a template that is easy to fill out with vim or double clicking on the last word
+**this is a template that is easy to fill out with vim or double clicking on the last word**
 ```yaml
 - email: email
   major: CSE
