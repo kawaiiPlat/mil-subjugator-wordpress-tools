@@ -1,7 +1,6 @@
-*** This is an example single entry in the yaml file that describes the lab members
+#This is an example single entry in the yaml file that describes the lab members
 
-'''
-
+```yaml
 - email: jarrod.sanders@ufl.edu
   major: CSE
   name: Jarrod Sanders
@@ -11,10 +10,11 @@
   concentration: software tool development
   resume: unavalible
   teamContributions: working on website
+```
 
-'''
- ** this is a template that is easy to fill out with vim or double clicking on the last word
-'''
+
+#this is a template that is easy to fill out with vim or double clicking on the last word
+```yaml
 - email: email
   major: CSE
   name: Gator
@@ -24,5 +24,4 @@
   concentration: Spirit
   resume: gator
   teamcontributions: eating
-
-'''
+```
