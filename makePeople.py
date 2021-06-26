@@ -55,7 +55,7 @@ for p in struct:
     resume = p.get("resume") 
     teamContributions = p.get("teamcontributions") 
 
-    if(name != 'Allie Gator'):
+    if(name != 'Gator'):
         htmlblock +='\n<tr>\n'\
         '<td>{name}</td>\n'\
         '<td>{position}</td>\n'\
