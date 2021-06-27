@@ -1,17 +1,7 @@
-- email: email
-  major: CSE
-  name: Gator
-  position: Gator
-  imageurl: url
-  degreelevel: BS
-  concentration: Spirit
-  resume: gator
-  teamcontributions: eating
-
 - email: @ufl.edu
-  major: cse
+  major: CSE
   name: jarrod Sanders
-  position: software-Hardware crossover dev
+  position: Software-Hardware Crossover Dev
   imageurl: http://subjugator.org/wp-content/uploads/2021/06/Jarrod-Sanders-Square.jpg
   degreelevel: BS
   concentration: software tool development
@@ -19,10 +9,10 @@
   teamcontributions: working on website
 
 - email: @ufl.edu
-  major: cpe
-  name: alex Perez
-  position: software team lead
-  imageurl: http://subjugator.org/wp-content/uploads/2021/06/Jarrod-Sanders-Square.jpg
+  major: CPE
+  name: Alex Perez
+  position: Software Team Lead
+  imageurl: url
   degreelevel: BS
   concentration: software team managment
   resume: unavalible
@@ -31,9 +21,59 @@
 - email: @ufl.edu
   major: ME
   name: Damir Fayulez
-  position: Senior Mech Team lead
+  position: Mech Team Lead
+  imageurl: http://subjugator.org/wp-content/uploads/2020/11/Damir-Fayzulaev.png
+  degreelevel: BS
+  concentration: Areospace Engineering
+  resume: unavalible
+  teamcontributions: Developed CAD Organization System, Design and fabrication of major systems
+
+- email: @ufl.edu
+  major: CPE
+  name: Alex Kuzmeki
+  position: Electrical Team Lead
   imageurl: url
   degreelevel: BS
-  concentration: CAD direction and Modeling
+  concentration: None
   resume: unavalible
-  teamcontributions: Developed CAD Organization System
+  teamcontributions: Leading and directing software team
+
+- email: @ufl.edu
+  major: CPE
+  name: Marshall Rawson
+  position: Former Electrical Team Lead
+  imageurl: http://subjugator.org/wp-content/uploads/2019/03/Marshall_Rawson.jpg
+  degreelevel: BS
+  concentration: None
+  resume: unavalible
+  teamcontributions: Leading and directing software team
+
+- email: @ufl.edu
+  major: ME
+  name: Andrez Pulido
+  position: Senior Mech Team Lead
+  imageurl: http://subjugator.org/wp-content/uploads/2019/04/Andres_Pulido.jpg
+  degreelevel: MS
+  concentration: Control Systems Analysis
+  resume: unavalible
+  teamcontributions: Data analysis of actual power-motion relationship
+
+- email: @ufl.edu
+  major: EE
+  name: Marquez Jones
+  position: Electrical Team Member
+  imageurl: http://subjugator.org/wp-content/uploads/2018/06/Jones-1.png
+  degreelevel: BS
+  concentration: Electrical Engineering
+  resume: unavalible
+  teamcontributions: Design and manufacture of PCBs, maintinence of low level software 
+
+- email: @ufl.edu
+  major: Electrical, Mechanical Systems
+  name: Dr. Eric M. Schwartz
+  position: Director and Faculty Advisor
+  imageurl: http://subjugator.org/wp-content/uploads/2018/06/Schwartz.png
+  degreelevel: Professor
+  concentration: Electrical Systems
+  resume: unavalible
+  teamcontributions: Team and trip organization, advising on all systems
